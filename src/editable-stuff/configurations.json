@@ -10,37 +10,37 @@
     {
       "id": 0,
       "image": "fa-github",
-      "url": "https://github.com/hashirshoaeb",
+      "url": "https://github.com/cpkrepo",
       "style": "socialicons"
     },
     {
       "id": 1,
       "image": "fa-facebook",
-      "url": "https://www.facebook.com/hashir.shoaeb",
+      "url": "https://www.facebook.com/christopher.killion",
       "style": "socialicons"
     },
     {
       "id": 2,
       "image": "fa-instagram",
-      "url": "https://www.instagram.com/hashir.shoaeb/",
+      "url": "https://www.instagram.com/cpkillion/",
       "style": "socialicons"
     },
     {
       "id": 3,
       "image": "fa-linkedin",
-      "url": "https://www.linkedin.com/in/hashir-shoaeb/",
+      "url": "https://www.linkedin.com/",
       "style": "socialicons"
     }
   ],
   "aboutHeading": "About Me",
   "showInstaProfilePic": true,
   "instaLink": "https://www.instagram.com/",
-  "instaUsername": "hashirshoaeb",
+  "instaUsername": "cpkillion",
   "instaQuerry": "/?__a=1",
-  "aboutDescription": "A final year Computer Engineer from NUST CEME, Pakistan with 3+ years experience in web development and passion to teach machines think. I’m currently the Vice President of student body at Emerging Technologies Research Lab(ETL) and a former Intern at RiseTech.",
+  "aboutDescription": "Creative Consultant",
   "projectHeading": "Recent Projects",
-  "gitHubLink": "https://api.github.com/users/",
-  "gitHubUsername": "hashirshoaeb",
+  "gitHubLink": "https://github.com/cpkrepo/",
+  "gitHubUsername": "cpkrepo",
   "gitHubQuerry": "/repos?sort=updated&direction=desc",
   "projectsLength": 4,
   "showNavigationbar": true,
